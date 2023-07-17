@@ -1,8 +1,8 @@
 {
-	"url": "http://localhost:8080/common/views/platform/of-info/index.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/views/platform/of-info/index.html",
 	"preloadScripts": [
 		{
-			"url": "http://localhost:8080/common/style/style-changed-preload.js"
+			"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/style/style-changed-preload.js"
 		}
 	]
 }
