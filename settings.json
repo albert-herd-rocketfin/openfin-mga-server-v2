@@ -26,7 +26,7 @@
 		]
 	},
 	"platformProvider": {
-		"rootUrl": "http://localhost:8080",
+		"rootUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master",
 		"sharing": true,
 		"interop": {
 			"intentResolver": {

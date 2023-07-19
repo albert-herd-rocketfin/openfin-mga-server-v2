@@ -81,7 +81,7 @@
 			"autoShow": ["dock", "home"]
 		},
 		"platformProvider": {
-			"rootUrl": "http://localhost:8080",
+			"rootUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master",
 			"sharing": true,
 			"interop": {
 				"intentResolver": {
@@ -154,18 +154,7 @@
 		},
 		"appProvider": {
 			"endpointIds": [
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-contact.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-expero.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-interop.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-manager.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-native.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-dev-extensions.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-preload.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/common/apps-tools.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/apps.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/apps-fdc3-1-2.json",
-				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/apps-fdc3-2-0.json"
+				"https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server-v2/master/apps.json"
 			],
 			"cacheDurationInSeconds": 10,
 			"cacheDurationInMinutes": 0,
